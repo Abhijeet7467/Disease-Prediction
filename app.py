@@ -43,7 +43,7 @@ with st.sidebar:
         #'Disease Prediction',
         'Diabetes Prediction',
         'Heart disease Prediction',
-        #'Parkison Prediction',
+        'Parkison Prediction',
         'Liver prediction',
         #'Hepatitis prediction',
         'Lung Cancer Prediction',
