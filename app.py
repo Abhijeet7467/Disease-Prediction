@@ -47,8 +47,8 @@ with st.sidebar:
         'Liver prediction',
         #'Hepatitis prediction',
         'Lung Cancer Prediction',
-        #'Chronic Kidney prediction',
-        #'Breast Cancer Prediction',
+        'Chronic Kidney prediction',
+        'Breast Cancer Prediction',
 
     ],
         icons=['','activity', 'heart', 'person','person','person','person','bar-chart-fill'],
